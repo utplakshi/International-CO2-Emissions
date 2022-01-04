@@ -8,3 +8,11 @@ Have also performed numerous data visualisations to present the inferences in a 
 Implemented machine learning models, namely, kNN, PCA and Linear Regression.
 
 Included two other algorithms as a part of novelity in the project, namely, Bar Joseph's Seration Algorithm and Bertin's Permutation Matrix.
+## Project Analysis:
+
+Datasets Used: greenhouse_gas_inventory_data_data.csv, CO2Emission_LifeExp.csv
+
+Original Dataset Link (from Kaggle) for greenhouse gas inventory dataset: https://www.kaggle.com/unitednations/international-greenhouse-gas-emissions
+
+Original Dataset Link (from Kaggle) for CO2 Emissions Life Expectancy dataset: https://www.kaggle.com/sansuthi/global-co2-emissions
+
